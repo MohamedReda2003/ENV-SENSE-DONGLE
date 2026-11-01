@@ -1,0 +1,1 @@
+[('U4', 'E:\\Program Files\\KiCad\\10.0\\share\\kicad\\3dmodels\\RF_Module.3dshapes\\ESP32-S2-MINI-1.step'), ('J1', 'E:\\Program Files\\KiCad\\10.0\\share\\kicad\\3dmodels\\Connector_USB.3dshapes\\USB_C_Receptacle_HRO_TYPE-C-31-M-12.step')]
