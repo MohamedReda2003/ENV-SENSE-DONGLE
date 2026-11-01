@@ -3831,6 +3831,10 @@
 		(uuid "51793c26-2e49-4dc2-a220-eaf30be9f31d")
 	)
 	(no_connect
+		(at 48.26 50.8)
+		(uuid "5eb0d838-a741-4dc5-a46d-f01bafc52a80")
+	)
+	(no_connect
 		(at 151.13 105.41)
 		(uuid "63943e68-53b2-40a2-95b9-a78c92c41eb7")
 	)
@@ -3877,6 +3881,10 @@
 	(no_connect
 		(at 181.61 105.41)
 		(uuid "a04fe1cf-4c54-46cc-b9f1-08ddac30b5fe")
+	)
+	(no_connect
+		(at 48.26 53.34)
+		(uuid "a2697197-26b3-43e6-89c7-0b1fa511bf69")
 	)
 	(no_connect
 		(at 181.61 125.73)
